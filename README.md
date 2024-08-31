@@ -1,3 +1,5 @@
+local Lib - loadstring(game:HttpGet("https://raw.githubusercontent.com/AikaV3rm/UiLib/master/Lib.lua"))()
+
 -- Carregar a biblioteca de interface de usuário
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AikaV3rm/UiLib/master/Lib.lua"))()
 
